@@ -1,7 +1,7 @@
 -- // Coded by _notportal
 -- Example at bottom
 if not isfile("ProggyClean.ttf") then
-	writefile("ProggyClean.ttf", game:HttpGet("https://github.com/haalfiperth/Alwayswin/raw/main/Fonts/Consolas.ttf"))
+	writefile("ProggyClean.ttf", game:HttpGet("https://github.com/haalfiperth/Alwayswin/blob/main/Fonts/TerminusTTF-4.49.3.ttf"))
 end
 if isfile("UI_FONT.font") then
 	delfile("UI_FONT.font")
